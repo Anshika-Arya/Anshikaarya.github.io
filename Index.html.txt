@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Anshika Arya's Resume</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Anshika Arya's Resume
+  * Updated: Dec 13 2023 with Bootstrap v5.3.2
+  * Author: You!
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <i class="bi bi-list mobile-nav-toggle d-lg-none"></i>
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex flex-column justify-content-center">
+
+    <nav id="navbar" class="navbar nav-menu">
+      <ul>
+        <li><a href="#resume" class="nav-link scrollto active"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
+      </ul>
+    </nav><!-- .nav-menu -->
+
+  </header><!-- End Header -->
+
+  <!-- ======= Resume Section ======= -->
+  <section id="resume" class="resume">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2>Resume</h2>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-6">
+          <h3 class="resume-title">Experience</h3>
+          <div class="resume-item">
+            <h4>Customer Success | Exly Powered by Myscoot</h4>
+            <p>May-September 2023</p>
+            <ul>
+              <li>Provided strategic recommendations resulting in a 30% improvement in operational efficiency.</li>
+              <li>Achieved a 95% customer satisfaction rating by resolving requests and complaints within designated timeframes.</li>
+              <li>Analyzed customer feedback leading to new product features and a 10% increase in sales.</li>
+            </ul>
+          </div>
+
+          <div class="resume-item">
+            <h4>Quality Control Analyst | Total Solutions Group</h4>
+            <p>Jan-Feb 2023</p>
+            <ul>
+              <li>Developed metrics leading to a 15% improvement in product quality.</li>
+              <li>Created comprehensive quality assurance policies ensuring adherence to industry standards.</li>
+              <li>Implemented standardized checklists, resulting in a 20% decrease in errors and improved product quality.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-lg-6">
+          <h3 class="resume-title">Education & Certifications</h3>
+          <div class="resume-item">
+            <h4>Bachelor Of Commerce | Delhi University</h4>
+            <p>Sept 2019-June 2022</p>
+            <ul>
+              <li>Distinguished Member of College’s Cultural Society</li>
+              <li>Relevant coursework: Advanced Financial Accounting and Reporting</li>
+              <li>SGPA: 7.34</li>
+            </ul>
+          </div>
+
+          <div class="resume-item">
+            <h4>Certifications</h4>
+            <p>YWCA Of Delhi | 2019-2020</p>
+            <ul>
+              <li>Modern Office Management and Secretarial Practice</li>
+            </ul>
+            <p>Board of Technical Education Delhi | 2020-2023</p>
+            <ul>
+              <li>Diploma in Modern Office Practice</li>
+            </ul>
+            <p>Analytix Labs | June 2023-Present</p>
+            <ul>
+              <li>Business/Data Analytics</li>
+            </ul>
+          </div>
+
+          <div class="resume-item">
+            <h4>Skills</h4>
+            <ul class="skills-list">
+              <li>Data Analysis: Excel, SQL, Power BI</li>
+              <li>Problem Solving</li>
+              <li>Attention to Detail</li>
+              <li>Microsoft Suite: Word, PowerPoint</li>
+              <!-- Add other relevant skills -->
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section><!-- End Resume Section -->
+
+  <!-- Other sections can be added similarly -->
+
+</body>
+
+</html>
